@@ -1,1 +1,1 @@
-# super_inventory
+# discovery_organization
